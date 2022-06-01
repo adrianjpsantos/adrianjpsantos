@@ -1,12 +1,12 @@
 # Olá, eu sou Adrian 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Adrian_José_Pereira_Santos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-santos-5a5941234) [![Instagram Badge](https://img.shields.io/badge/-@super.adr-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/super.adr) [![Gmail Badge](https://img.shields.io/badge/-adrianjpsantoos-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adrianjpsantoos@gmail.com)
 
-Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de sistemas na Etec ['Comendador João Rays'](https://www.linkedin.com/school/etec-comendador-joao-rays/). Eu nunca trabalhei na area de tecnologia mas procuro no futuro estar trabalhando e realizar muitos outros feitos neste meio que é tão entusiástico.
+Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de sistemas na Etec ['Comendador João Rays'](https://www.linkedin.com/school/etec-comendador-joao-rays/). Eu nunca trabalhei na area de tecnologia mas procuro no futuro estar trabalhando e realizar muitos outros feitos neste meio que eu tanto gosto.
 
 **Falando sobre coisas pessoais:**
 
 - 👨🏽‍💻 No momento,estou trabalhando para melhorar minhas habilidades tecnicas;
-- 🌱 No momento,estou aprendendo Front-end; 
+- 🌱 No momento,estou aprendendo React Native; 
 - 👯 Eu estou procurando um estágio na area Front-end Web ou Mobile;
 - 💬 Pergunte-me sobre qualquer coisa, eu estou feliz em ajudar;
 - ⚡️ Fato Divertido: Tudo é possível;
