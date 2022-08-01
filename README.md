@@ -5,9 +5,9 @@ Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de 
 
 **Falando sobre coisas pessoais:**
 
-- 👨🏽‍💻 No momento,estou trabalhando para melhorar minhas habilidades tecnicas;
+- 👨🏽‍💻 No momento,estou trabalhando para melhorar minhas habilidades técnicas;
 - 🌱 No momento,estou aprendendo React Native; 
-- 👯 Eu estou procurando um estágio na area Front-end Web ou Mobile;
+- 👯 Eu estou procurando um estágio na área de Desenvolvimento de sistemas;
 - 💬 Pergunte-me sobre qualquer coisa, eu estou feliz em ajudar;
 - ⚡️ Fato Divertido: Tudo é possível;
 - 📫 Como chegar até mim: [adrianjpsantoos@gmail.com](mailto:adrianjpsantoos@gmail.com);
