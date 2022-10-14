@@ -1,5 +1,5 @@
 # Olá, eu sou Adrian 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Adrian_José_Pereira_Santos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-santos-5a5941234) [![Instagram Badge](https://img.shields.io/badge/-@super.adr-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/super.adr) [![Gmail Badge](https://img.shields.io/badge/-adrianjpsantoos-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adrianjpsantoos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Adrian_José_Pereira_Santos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-santos-5a5941234) [![Instagram Badge](https://img.shields.io/badge/-@super.adr-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/super.adr)
 
 Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de sistemas na Etec ['Comendador João Rays'](https://www.linkedin.com/school/etec-comendador-joao-rays/). Eu nunca trabalhei na area de tecnologia mas procuro no futuro estar trabalhando e realizar muitos outros feitos neste meio que eu tanto gosto.
 
@@ -10,7 +10,6 @@ Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de 
 - 👯 Eu estou procurando um estágio na área de Desenvolvimento de sistemas;
 - 💬 Pergunte-me sobre qualquer coisa, eu estou feliz em ajudar;
 - ⚡️ Fato Divertido: Tudo é possível;
-- 📫 Como chegar até mim: [adrianjpsantoos@gmail.com](mailto:adrianjpsantoos@gmail.com);
 
 **Linguagens e ferramentas:**
 
