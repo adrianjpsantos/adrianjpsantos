@@ -16,4 +16,8 @@ Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de 
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.linkedin.com/in/adrianjpsantos) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.linkedin.com/in/adrianjpsantos) [![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)](https://www.linkedin.com/in/adrianjpsantos) [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=SQL)]()
  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.linkedin.com/in/adrianjpsantos)
  [![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=Visual-Studio&logoColor=blue)](https://www.linkedin.com/in/adrianjpsantos)[![Android Studio](https://img.shields.io/badge/-Android_Studio-green?style=flat&logo=Android-Studio&logoColor=white)](https://www.linkedin.com/in/adrianjpsantos) [![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase)]() [![React-Native](https://img.shields.io/badge/-React%20Native-lightgrey?style=flat&logo=react)]() [![Dot-Net](https://img.shields.io/badge/-dotNet-blue?style=flat&logo=dotnet)]()
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianjpsantos&show_icons=false&theme=default)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjpsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
