@@ -8,7 +8,7 @@ Muito prazer! Meu nome é Adrian. Atualmente estou estudando desenvolvimento de 
 
 - 👨🏽‍💻 No momento,estou trabalhando para melhorar minhas habilidades técnicas;
 - 🌱 No momento,estou aprendendo Angular; 
-- 👯 Eu estou procurando um estágio na área de Desenvolvimento de sistemas;
+- 👯 Eu estou procurando um emprego na área de Desenvolvimento de sistemas;
 - 💬 Pergunte-me sobre qualquer coisa, eu estou feliz em ajudar;
 - ⚡️ Fato Divertido: Tudo é possível;
 
