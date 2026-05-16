@@ -9,7 +9,7 @@
 ### Habilidades e Foco Atual
 
 - **Foco:** Backend e Desenvolvimento Mobile.
-- **Estudos:** Backend (Node.js) e Flutter.
+- **Estudos:** Backend (GO) e Flutter.
 - **Projetos:** Desenvolvimento de projetos pessoais para portfólio.
 
 ---
